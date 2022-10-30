@@ -1,0 +1,17 @@
+div{
+    width: 70%;
+    margin: auto;
+ }
+
+ h1{
+    color: blue;
+ }
+
+ h2{
+    color: red;
+
+ }
+
+ p{
+    border: 1px solid black;
+ }

@@ -1,0 +1,42 @@
+
+    div{
+        width: 70%;
+        margin: auto;
+    }
+    h1{
+        color: blue;
+        border: 3px solid brown;
+        position: static;
+        top: 30px;
+    }
+    p {
+        border:1px solid black;
+        padding: 20px;
+    }
+
+    h2{
+        color: red;
+        border: 1px dashed blue;
+    }
+   
+    img{
+        border:1px  solid black;
+      
+        margin: 0px;
+    }
+
+     ul li {
+        background: snow;
+    }
+
+    #vctlcq{ 
+            font-family: Arial, Helvetica, sans-serif; 
+    }
+
+    .huruf{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .warna{
+        background-color: aqua;
+    }

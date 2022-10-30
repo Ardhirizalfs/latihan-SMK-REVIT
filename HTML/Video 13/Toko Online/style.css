@@ -1,0 +1,64 @@
+* {
+    margin: 0; 
+    padding: 0;
+}
+
+.row{
+display: inline-grid;
+background-color: tomato;
+grid-template-columns: 100px 200px;
+}
+
+.col{
+    width: 150px;
+    height: 150px;
+}
+
+.satu{
+    background-color: teal;
+}
+.dua{
+    background-color: tomato;
+}
+.tiga{
+    background-color: turquoise;
+}
+.empat{
+    background-color: yellow;
+}
+
+.lima{
+    background-color: crimson;
+}
+.row{
+/* flex-direction: row-reverse; */
+/* flex-direction: row; */
+/* flex-direction: column-reverse; */
+/* flex-wrap: wrap; */
+/* flex-wrap: nowrap; */
+/* flex-flow: column; */
+/* justify-content: center; */
+/* justify-content: flex-start; */
+/* justify-content: flex-end; */
+/* justify-content: space-around; */
+/* justify-content: space-between; */
+}
+
+/* .col-1{
+    background: limegreen;
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    padding: 20px;
+    box-sizing: content-box;
+}
+
+.col-2{
+    background: yellowgreen;
+    
+    height: 100px;
+    width: 100px;
+    margin: 50px;
+    padding: 20px;
+    box-sizing: border-box;
+} */
